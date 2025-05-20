@@ -89,7 +89,7 @@ main {
     color: #1d1d1d;
     font-weight: 600;
     transform: translateY(-15px);
-    margin-bottom: -18px;
+    margin-bottom: -28px;
     
 }
 #praw .sub{
@@ -97,12 +97,12 @@ main {
     color: #4a4a4a;
     font-weight: 500;
     transform: translateY(8px);
-    margin-top: -8px;
+    margin-top: -18px;
     
 }
 #praw br{
     content: "";
-    margin: 20em;
+    margin: 3em;
     display: block;
     font-size: 24%;
 }
