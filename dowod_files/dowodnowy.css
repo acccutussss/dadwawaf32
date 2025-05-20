@@ -81,7 +81,7 @@ main {
 }
 #praw{
     position: relative;
-    margin: 40px;
+    margin: 20px;
     width: 65%;
 }
 #praw p:not(.sub){
@@ -102,7 +102,7 @@ main {
 }
 #praw br{
     content: "";
-    margin: 3em;
+    margin: 20em;
     display: block;
     font-size: 24%;
 }
